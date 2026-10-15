@@ -1,0 +1,16 @@
+{
+  "name": "Libreta de Equipos y Pautas",
+  "short_name": "Libreta",
+  "description": "Bitácora de equipos y corrección con rúbricas en escala 1,0 a 7,0. Funciona sin internet.",
+  "lang": "es-CL",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icono-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
